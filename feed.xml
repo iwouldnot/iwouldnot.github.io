@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>iwouldnot&#39;s blog</title>
+    <description>Personal blog</description>
+    <link>https://iwouldnot.me/</link>
+    <atom:link href="https://iwouldnot.me/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 11 Sep 2017 02:35:35 +0700</pubDate>
+    <lastBuildDate>Mon, 11 Sep 2017 02:35:35 +0700</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>ОС, лабораторная №3</title>
+        <description>&lt;h1 id=&quot;section&quot;&gt;Лабораторная №3 по ОС&lt;/h1&gt;
+
+&lt;h3 id=&quot;section-1&quot;&gt;Задание&lt;/h3&gt;
+
+&lt;p&gt;Накатать кастомную find функцию. Что-то в этом стиле, в общем.&lt;/p&gt;
+
+&lt;p&gt;Сорцы: &lt;a href=&quot;https://gist.github.com/iwouldnot/0c6feb7d471180f3c44cce67a3d64587&quot;&gt;github.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Ну и всё. А чо еще-то.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 11 Sep 2017 03:13:43 +0700</pubDate>
+        <link>https://iwouldnot.me/OS-Lab-3/</link>
+        <guid isPermaLink="true">https://iwouldnot.me/OS-Lab-3/</guid>
+        
+        
+        <category>учеба</category>
+        
+      </item>
+    
+      <item>
+        <title>ОС, лабораторная №2</title>
+        <description>&lt;h1 id=&quot;section&quot;&gt;Лабораторная №2 по ОС&lt;/h1&gt;
+
+&lt;h3 id=&quot;section-1&quot;&gt;Задание&lt;/h3&gt;
+
+&lt;p&gt;Чот там вывести по маске все файлы и удалить остальные. Вроде так.&lt;/p&gt;
+
+&lt;p&gt;Сорцы: &lt;a href=&quot;https://gist.github.com/iwouldnot/8c88c23067828bebe262491e71555a0f&quot;&gt;github.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Ну и всё. А чо еще-то.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 11 Sep 2017 02:37:11 +0700</pubDate>
+        <link>https://iwouldnot.me/OS-Lab-2/</link>
+        <guid isPermaLink="true">https://iwouldnot.me/OS-Lab-2/</guid>
+        
+        
+        <category>учеба</category>
+        
+      </item>
+    
+      <item>
+        <title>АиСД, лабораторная №1</title>
+        <description>&lt;h1 id=&quot;section&quot;&gt;Лабораторная №1 по АиСД&lt;/h1&gt;
+
+&lt;h3 id=&quot;section-1&quot;&gt;Задание&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Разработать алгоритм решения соответствующего варианта задания на
+псевдокоде&lt;/li&gt;
+  &lt;li&gt;На основе описания алгоритма вывести формулу определения числа операций в
+зависимости от размерности исходных данных&lt;/li&gt;
+  &lt;li&gt;Построить графики зависимости времени выполнения от размерности исходных
+данных&lt;/li&gt;
+  &lt;li&gt;Написать программы тестирования алгоритмов и построить графики
+зависимости времени выполнения от размерности исходных данных на основе
+вычислительных экспериментов&lt;/li&gt;
+  &lt;li&gt;Провести сравнительный анализ графиков по пунктам 3-4
+&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;section-2&quot;&gt;Вариант 5&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Заменить минимальный элемент побочной диагонали на среднюю сумму
+отрицательных элементов матрицы P[n,n].&lt;/li&gt;
+  &lt;li&gt;В матрицах A[m,n], B[m,n] найти и поменять местами максимальный элемент
+среди нечётных столбцов и чётных строк соответственно&lt;/li&gt;
+  &lt;li&gt;Из положительных элементов массива Х1, Х2 , … , Хn, расположенных правее
+минимального элемента, сформировать новый массив.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Сорцы: &lt;a href=&quot;https://github.com/iwouldnot/TPU_Algo_labs/tree/master/Lab%201&quot;&gt;github.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Тетрадки на каждое из подзаданий:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nbviewer.jupyter.org/github/iwouldnot/TPU_Algo_labs/blob/master/Lab%201/Lab1_1.ipynb&quot;&gt;Задание 1&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nbviewer.jupyter.org/github/iwouldnot/TPU_Algo_labs/blob/master/Lab%201/Lab1_2.ipynb&quot;&gt;Задание 2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nbviewer.jupyter.org/github/iwouldnot/TPU_Algo_labs/blob/master/Lab%201/Lab1_3.ipynb&quot;&gt;Задание 3&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Отчет:&lt;br /&gt;
+&lt;a href=&quot;/assets/StudyContent/AiSD/Lab1/alg_lab1_otchet.docx&quot;&gt;Отчет по лабораторной работе №1&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 10 Sep 2017 21:17:43 +0700</pubDate>
+        <link>https://iwouldnot.me/AiSD-Lab-1/</link>
+        <guid isPermaLink="true">https://iwouldnot.me/AiSD-Lab-1/</guid>
+        
+        
+        <category>учеба</category>
+        
+      </item>
+    
+      <item>
+        <title>Максимум филлеров богу филлеров</title>
+        <description>&lt;p&gt;Филлер филлеру рознь.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 30 Aug 2017 16:41:15 +0700</pubDate>
+        <link>https://iwouldnot.me/maximum-filler-post/</link>
+        <guid isPermaLink="true">https://iwouldnot.me/maximum-filler-post/</guid>
+        
+        
+        <category>test</category>
+        
+      </item>
+    
+      <item>
+        <title>Еще больше филлеров богу филлеров</title>
+        <description>&lt;p&gt;И тут ничего нет.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 30 Aug 2017 16:40:15 +0700</pubDate>
+        <link>https://iwouldnot.me/even-more-filler-posts/</link>
+        <guid isPermaLink="true">https://iwouldnot.me/even-more-filler-posts/</guid>
+        
+        
+        <category>test</category>
+        
+      </item>
+    
+      <item>
+        <title>Больше филлеров богу филлеров</title>
+        <description>&lt;p&gt;Тут ничего нет.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 30 Aug 2017 16:38:43 +0700</pubDate>
+        <link>https://iwouldnot.me/more-filler-posts/</link>
+        <guid isPermaLink="true">https://iwouldnot.me/more-filler-posts/</guid>
+        
+        
+        <category>test</category>
+        
+      </item>
+    
+      <item>
+        <title>Импорт ми бейби уан мор тайм</title>
+        <description>&lt;p&gt;Снова здрасьте.&lt;/p&gt;
+
+&lt;p&gt;Ну мне же надо что-то написать.&lt;/p&gt;
+
+&lt;p&gt;Сделаю вид, как будто я вас учу импортировать библиотеки под ML.&lt;/p&gt;
+
+&lt;p&gt;(Анализ частотных рядов — как-нибудь в другой раз, уж извините)&lt;/p&gt;
+
+&lt;p&gt;Это пусть тут побудет, а вы смотрите и учитесь. Импортирую я как боженька, да-да.
+Собственно, это мои импорты с последней построенной модельки для регрессии длины входящего звонка. Как бы моделька не особо большая, так что и импорты довольно скромные. Но не особо шарящих людей уже вполне себе может впечатлить. Такие дела.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;numpy&lt;/span&gt; &lt;span class=&quot;kn&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;np&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;pandas&lt;/span&gt; &lt;span class=&quot;kn&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;pd&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;catboost&lt;/span&gt; &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Pool&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;CatBoostClassifier&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;CatBoostRegressor&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;cv&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;CatboostIpythonWidget&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;hyperopt&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;sklearn.model_selection&lt;/span&gt; &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;train_test_split&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;GridSearchCV&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;cross_val_score&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;StratifiedKFold&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;sklearn.feature_selection&lt;/span&gt; &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;RFECV&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;sklearn.ensemble&lt;/span&gt; &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;RandomForestClassifier&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;RandomForestRegressor&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;GradientBoostingRegressor&lt;/span&gt;
+
+&lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;matplotlib&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;inline&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;matplotlib.pyplot&lt;/span&gt; &lt;span class=&quot;kn&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;plt&lt;/span&gt;
+&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;seaborn&lt;/span&gt; &lt;span class=&quot;kn&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;sns&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Ну ладно, ладно. Вот вам ещё немного кода.&lt;/p&gt;
+
+&lt;p&gt;Это пересчет суммы звонка от одного и того же абонента за определенный временной промежуток (window).&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;id_abonent&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;unique&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;():&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;target_rows&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;id_abonent&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;temp_df&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;target_rows&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;temp&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pd&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;DataFrame&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;temp_df&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;id_abonent&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;])&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;temp&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;temp&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;join&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;temp_df&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;call_start&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;])&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;temp&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;called_lately&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;temp&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;called_lately&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;temp&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rolling&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;4h&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;on&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;call_start&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;called_lately&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;sum&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;loc&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;target_rows&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;#39;called_lately&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;temp&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;called_lately&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Ну и хватит с вас.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 29 Aug 2017 06:53:43 +0700</pubDate>
+        <link>https://iwouldnot.me/first-filler-post/</link>
+        <guid isPermaLink="true">https://iwouldnot.me/first-filler-post/</guid>
+        
+        
+        <category>ds,</category>
+        
+        <category>ml,</category>
+        
+        <category>tutorial</category>
+        
+      </item>
+    
+      <item>
+        <title>Мертворожденный блоггер</title>
+        <description>&lt;h3 id=&quot;section&quot;&gt;Дратути.&lt;/h3&gt;
+&lt;p&gt;Тут такое дело.&lt;/p&gt;
+
+&lt;p&gt;В общем-то, я у мамы и не блоггер, да и вообще доносить что-то людям без определенного таргета в виде слушателя — не очень мой стиль, но так уж вышло, что этот &lt;i&gt;псевдо&lt;/i&gt;блог я все-таки делаю.&lt;/p&gt;
+
+&lt;p&gt;Да, приветствие вышло какое-то пустое, но я в этом никак не виноват. Сами захотели почитать. Если тут и будет что-то интересное, то только существенно позже. Просто потому что интересное что-то я планирую писать только много позже.&lt;/p&gt;
+
+&lt;p&gt;Например, планирую расписывать обучение модельки по распознаванию депрессивности песни через анализ частотных рядом, может быть даже через нейронные сети на TensorFlow, это уж как дело пойдет. Не хочу загадывать заранее, может быть, найдется и какой-нибудь более адекватный вариант, чем ручками клепать нейронки, рвя на себе волосы и гневно крича &lt;strong&gt;“НУЖНО БОЛЬШЕ СЛОЁВ!!!”&lt;/strong&gt;. Надеюсь, обойдется как-нибудь.&lt;/p&gt;
+
+&lt;p&gt;А пока что,&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Now cracks a noble heart. Good-night, sweet prince;&lt;br /&gt;And flights of angels sing thee to thy rest.&lt;/p&gt;
+  &lt;div style=&quot;text-align: right; margin: -10px 180px auto auto&quot;&gt; &lt;i&gt;― William Shakespeare, Hamlet&lt;/i&gt; &lt;/div&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Tue, 29 Aug 2017 05:23:13 +0700</pubDate>
+        <link>https://iwouldnot.me/introduction-post/</link>
+        <guid isPermaLink="true">https://iwouldnot.me/introduction-post/</guid>
+        
+        
+        <category>организационное,</category>
+        
+        <category>новости,</category>
+        
+        <category>объявление</category>
+        
+      </item>
+    
+  </channel>
+</rss>
